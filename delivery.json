@@ -1,0 +1,46 @@
+{
+  "defaultCharge": 250,
+  "freeAbove": 5000,
+  "cities": [
+    {
+      "city": "Karachi",
+      "charge": 200
+    },
+    {
+      "city": "Lahore",
+      "charge": 200
+    },
+    {
+      "city": "Islamabad / Rawalpindi",
+      "charge": 220
+    },
+    {
+      "city": "Faisalabad",
+      "charge": 200
+    },
+    {
+      "city": "Multan",
+      "charge": 220
+    },
+    {
+      "city": "Peshawar",
+      "charge": 250
+    },
+    {
+      "city": "Quetta",
+      "charge": 300
+    },
+    {
+      "city": "Sialkot / Gujranwala",
+      "charge": 220
+    },
+    {
+      "city": "Hyderabad",
+      "charge": 220
+    },
+    {
+      "city": "Other Cities & Towns",
+      "charge": 250
+    }
+  ]
+}

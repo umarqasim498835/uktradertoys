@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cat-rc",
+    "name": "RC Cars & Drones",
+    "icon": "🏎️"
+  },
+  {
+    "id": "cat-stem",
+    "name": "Educational & STEM",
+    "icon": "🧩"
+  },
+  {
+    "id": "cat-figures",
+    "name": "Action Figures & Heroes",
+    "icon": "🦸"
+  },
+  {
+    "id": "cat-dolls",
+    "name": "Dolls & Kitchen Sets",
+    "icon": "🎀"
+  },
+  {
+    "id": "cat-toddler",
+    "name": "Baby & Toddler Play",
+    "icon": "🧸"
+  }
+]

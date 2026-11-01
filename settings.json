@@ -1,0 +1,38 @@
+{
+  "storeName": "UK Traders",
+  "phone": "0300 7599147",
+  "whatsapp": "923007599147",
+  "hours": "Monday – Sunday: 9:00 AM – 10:00 PM",
+  "heroHeadline": "Apne Bachon Ke Liye Best Toys",
+  "heroSubheadline": "Explore our magical collection of interactive, educational, and fun toys. Order instantly on WhatsApp or Call!",
+  "aboutText": "UK Traders is Pakistan’s trusted online toy destination. We handpick safe, creative, and durable toys for kids of all ages. Quick response, transparent dealing, and fast doorstep delivery across Pakistan.",
+  "deliveryNotice": "Delivery all over Pakistan. Delivery charges depend on your city and will be confirmed on WhatsApp.",
+  "payments": {
+    "cod": {
+      "enabled": true,
+      "instructions": "Pay cash when the rider delivers the parcel to your doorstep anywhere in Pakistan."
+    },
+    "jazzcash": {
+      "enabled": true,
+      "title": "UK Toys",
+      "accountNumber": "03007599147",
+      "bankName": "JazzCash Mobile Account",
+      "instructions": "Send money to our JazzCash account and send screenshot / TID on WhatsApp."
+    },
+    "easypaisa": {
+      "enabled": true,
+      "title": "UK Traders",
+      "accountNumber": "03007599147",
+      "bankName": "Easypaisa Mobile Account",
+      "instructions": "Transfer to Easypaisa and share the confirmation screenshot on WhatsApp."
+    },
+    "bank": {
+      "enabled": true,
+      "title": "UK Traders",
+      "accountNumber": "",
+      "bankName": "Meezan Bank Ltd (Any branch / Online)",
+      "instructions": "Deposit or online transfer (IBFT) and share receipt on WhatsApp."
+    }
+  },
+  "lastBackupDate": "2026-10-17T11:27:19.599Z"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "exp-1792245863573-g8etf",
+    "date": "2026-10-17",
+    "category": "Rent",
+    "amount": 15000,
+    "note": "Dukaan rent monthly",
+    "isRecurring": true,
+    "createdAt": "2026-10-17T14:04:23.573Z"
+  },
+  {
+    "id": "exp-1792245863433-fjx1t",
+    "date": "2026-10-17",
+    "category": "Ads",
+    "amount": 3800,
+    "note": "TikTok Toy Campaign October (Updated)",
+    "linkedOrderNumber": "UK-1001",
+    "isRecurring": false,
+    "createdAt": "2026-10-17T14:04:23.433Z",
+    "updatedAt": "2026-10-17T14:04:26.183Z"
+  }
+]
