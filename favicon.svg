@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" rx="24" fill="#0B0B14"/>
+  <!-- Candy Pink Star -->
+  <path d="M 52 10 L 55 19 L 64 20 L 57 26 L 59 35 L 51 30 L 43 35 L 45 26 L 38 20 L 47 19 Z" fill="#FF2E93"/>
+  <circle cx="51" cy="23" r="2" fill="#FFFFFF"/>
+  <!-- Block U (Sunny Yellow) -->
+  <g transform="rotate(-6 32 62)">
+    <rect x="10" y="37" width="40" height="40" rx="10" fill="#E6BE00"/>
+    <rect x="10" y="34" width="40" height="40" rx="10" fill="#FFE600"/>
+    <text x="30" y="63" text-anchor="middle" fill="#0B0B14" font-family="Arial, sans-serif" font-weight="900" fontSize="26">U</text>
+  </g>
+  <!-- Block K (Sky Blue) -->
+  <g transform="rotate(5 68 65)">
+    <rect x="47" y="41" width="40" height="40" rx="10" fill="#00B8D9"/>
+    <rect x="47" y="38" width="40" height="40" rx="10" fill="#00F0FF"/>
+    <text x="67" y="67" text-anchor="middle" fill="#0B0B14" font-family="Arial, sans-serif" font-weight="900" fontSize="26">K</text>
+  </g>
+</svg>
